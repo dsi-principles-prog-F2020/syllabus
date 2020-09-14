@@ -166,15 +166,15 @@ Recording: https://vanderbilt.zoom.us/rec/share/tkx844znj9PbdS9hNWA0E_6AaI9mDGvF
 
 #### Mon, Sep 7
 
-https://vanderbilt.zoom.us/rec/share/8KH7YzHFKWdp12dEw3CA58F3cB2OZxan1heFsdEI5qaTrvkYXLS8caRlHEamlJug.mOGhTsAVZjgwRewE
+Recording: https://vanderbilt.zoom.us/rec/share/8KH7YzHFKWdp12dEw3CA58F3cB2OZxan1heFsdEI5qaTrvkYXLS8caRlHEamlJug.mOGhTsAVZjgwRewE
 
 #### Wed, Sep 9
 
-https://vanderbilt.zoom.us/rec/share/-iwLsQyuc7tbffHm-FWgQNg7O3tDXRm8kS4KkGoyyZfKSCUrNOFdKJFUoYwggI_1.Aqb4lGeswo-_B8n5?startTime=1599677484000
+Recording: https://vanderbilt.zoom.us/rec/share/-iwLsQyuc7tbffHm-FWgQNg7O3tDXRm8kS4KkGoyyZfKSCUrNOFdKJFUoYwggI_1.Aqb4lGeswo-_B8n5?startTime=1599677484000
 
 #### Fri, Sep 11
 
-https://vanderbilt.zoom.us/rec/share/gMAszqobI5JcqB8LUcdPMk67SMNBgZ3bUTr3NmnvRthLUynbNiN2I2JjQGHVsj9f.OVnbDY48qgTWQ78W?startTime=1599848255000
+Recording: https://vanderbilt.zoom.us/rec/share/gMAszqobI5JcqB8LUcdPMk67SMNBgZ3bUTr3NmnvRthLUynbNiN2I2JjQGHVsj9f.OVnbDY48qgTWQ78W?startTime=1599848255000
 
 ### Mon, Sep 14 - Fri, Sep 18
 - Functions (https://r4ds.had.co.nz/functions.html, http://adv-r.had.co.nz/Style.html) 
@@ -182,6 +182,8 @@ https://vanderbilt.zoom.us/rec/share/gMAszqobI5JcqB8LUcdPMk67SMNBgZ3bUTr3NmnvRth
 - Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
 #### Mon, Sep 14
+
+Recording: https://vanderbilt.zoom.us/rec/share/uWSq-sFgu9kq2riHXfu47QS7UG9uubuG4-8gc8Ar-9OJgO_JgpZPaHc34TnQLAqp.RtyxxpTkUBEjQnDa?startTime=1600108222000
 
 #### Wed, Sep 16
 
