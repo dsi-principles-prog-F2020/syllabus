@@ -168,29 +168,38 @@ Recording: https://vanderbilt.zoom.us/rec/share/tkx844znj9PbdS9hNWA0E_6AaI9mDGvF
 
 https://vanderbilt.zoom.us/rec/share/8KH7YzHFKWdp12dEw3CA58F3cB2OZxan1heFsdEI5qaTrvkYXLS8caRlHEamlJug.mOGhTsAVZjgwRewE
 
-### Mon, Sep 14
-- Functions (https://r4ds.had.co.nz/functions.html)
+#### Wed, Sep 9
+
+https://vanderbilt.zoom.us/rec/share/-iwLsQyuc7tbffHm-FWgQNg7O3tDXRm8kS4KkGoyyZfKSCUrNOFdKJFUoYwggI_1.Aqb4lGeswo-_B8n5?startTime=1599677484000
+
+#### Fri, Sep 11
+
+https://vanderbilt.zoom.us/rec/share/gMAszqobI5JcqB8LUcdPMk67SMNBgZ3bUTr3NmnvRthLUynbNiN2I2JjQGHVsj9f.OVnbDY48qgTWQ78W?startTime=1599848255000
+
+### Mon, Sep 14 - Fri, Sep 18
+- Functions (https://r4ds.had.co.nz/functions.html, http://adv-r.had.co.nz/Style.html) 
 - Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 - Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
-### Tue, Sep 16
+#### Mon, Sep 14
+
+#### Wed, Sep 16
+
+#### Fri, Sep 18
+
+### Mon, Sep 21 - Fri, Sep 25 
 - Vectors (https://r4ds.had.co.nz/vectors.html)
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
-
-### Module 5
 - Functional programming with map (https://r4ds.had.co.nz/iteration.html)
 
 
-### Module 6
+### Mon, Sep 28 - Fri, Oct 2
 - Datetime (https://r4ds.had.co.nz/dates-and-times.html)
 - Strings (https://r4ds.had.co.nz/strings.html)
 - Regular expressions (https://r4ds.had.co.nz/strings.html, https://github.com/VerbalExpressions/RVerbalExpressions)
-
-### Module 7
-- Regular expressions (https://github.com/VerbalExpressions/RVerbalExpressions)
 - Writing functions in the tidyverse (https://dplyr.tidyverse.org/articles/programming.html, but note that rlang curly-curly https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/ simplifies writing functions in tidyverse)
 
-### Module 8
+### Mon, Oct 5 - Fri, Oct 9
 - Feature engineering, writing tidyverse functions (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/, https://dplyr.tidyverse.org/reference/mutate_all.html)
 - Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
 - ACCRE Slurm ([Unix](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2017/10/26205557/NewIntroToUnix.pdf), [Introduction to the Cluster](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2018/12/13173622/intro_to_cluster_2018.pdf), [SLURM Job Scheduler](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2019/03/28204601/intro_to_slurm.pdf), [ACCRE GitHub Demo Repositories](https://github.com/accre))
