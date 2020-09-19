@@ -191,6 +191,8 @@ Recording: https://vanderbilt.zoom.us/rec/share/EUTzS0d3MwRBmKUE5h8a95ur3-cpObXt
 
 #### Fri, Sep 18
 
+Recording: https://vanderbilt.zoom.us/rec/share/L93kyRDtICBM-DT0wg9u4fEGr8T211xGxi9137qTF7Nd4R4MZiHyi_J6uDAL3WF3.w832AJPjDpFgGvFc?startTime=1600454025000
+
 ### Mon, Sep 21 - Fri, Sep 25 
 - Vectors (https://r4ds.had.co.nz/vectors.html)
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
