@@ -198,6 +198,9 @@ Recording: https://vanderbilt.zoom.us/rec/share/L93kyRDtICBM-DT0wg9u4fEGr8T211xG
 - Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 - Functional programming with map (https://r4ds.had.co.nz/iteration.html)
 
+#### Mon, Sep 21
+Recording: https://vanderbilt.zoom.us/rec/share/U-3YRP9yRCUwOaEtI0k6Nw9bmycBMseHu-mM7XVh24nYt0vVGdonbz9zZ1eZDFvl.9ERqb0ZFJl-F8S16?startTime=1600712547000
+
 
 ### Mon, Sep 28 - Fri, Oct 2
 - Datetime (https://r4ds.had.co.nz/dates-and-times.html)
