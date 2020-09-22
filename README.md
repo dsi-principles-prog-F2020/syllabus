@@ -187,7 +187,7 @@ Recording: https://vanderbilt.zoom.us/rec/share/uWSq-sFgu9kq2riHXfu47QS7UG9uubuG
 
 #### Wed, Sep 16
 
-Recording: https://vanderbilt.zoom.us/rec/share/EUTzS0d3MwRBmKUE5h8a95ur3-cpObXt2Kp3r36jAto6t_BuVxitUcqKfIESd6Sm.cZONjdCwbyTrx_78?startTime=1600281142000
+Recording: https://vanderbilt.zoom.us/rec/share/hBLOfXEv_6JIavKJDwYTk37JfEQRPossoJGZCB5W3dAKzvQYxiNldywimc5xNg2S.Ok4VhQH2NEEfQsFG?startTime=1600282207000
 
 #### Fri, Sep 18
 
