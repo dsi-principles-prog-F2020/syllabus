@@ -201,9 +201,11 @@ Recording: https://vanderbilt.zoom.us/rec/share/L93kyRDtICBM-DT0wg9u4fEGr8T211xG
 #### Mon, Sep 21
 Recording: https://vanderbilt.zoom.us/rec/share/U-3YRP9yRCUwOaEtI0k6Nw9bmycBMseHu-mM7XVh24nYt0vVGdonbz9zZ1eZDFvl.9ERqb0ZFJl-F8S16?startTime=1600712547000
 
-#### Wed, Sep 32
+#### Wed, Sep 23
 Recording: https://vanderbilt.zoom.us/rec/share/6RsP7QlzdCSQHyw3mIn_vWbZmrgQKWrYX6UktB35p7TcQvaezuC6-7_x68hQEHCl.0QDJSRlH2nnTs95m?startTime=1600886070000
 
+#### Fri, Sep 25
+Recording: https://vanderbilt.zoom.us/rec/share/TE-fxe4KU1RS1Uja0XgqrCzzn6WyeGlduLsjZ3BsIEGmsmM10bGo8ozlL7IXGgLl.MlzjCInbOAXPvQi5?startTime=1601058592000
 
 ### Mon, Sep 28 - Fri, Oct 2
 - Datetime (https://r4ds.had.co.nz/dates-and-times.html)
