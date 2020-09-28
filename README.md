@@ -213,6 +213,9 @@ Recording: https://vanderbilt.zoom.us/rec/share/TE-fxe4KU1RS1Uja0XgqrCzzn6WyeGld
 - Regular expressions (https://r4ds.had.co.nz/strings.html, https://github.com/VerbalExpressions/RVerbalExpressions)
 - Writing functions in the tidyverse (https://dplyr.tidyverse.org/articles/programming.html, but note that rlang curly-curly https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/ simplifies writing functions in tidyverse)
 
+#### Mon, Sep 28
+Recording: https://vanderbilt.zoom.us/rec/share/YE0ipKPKlaN-XRxrXh9GbK2w92BY8t97NsMhP5ilbyJ5c_FXhipKGjo3wh4ftCbB.7RvcK7co75RvVoRJ?startTime=1601317320000
+
 ### Mon, Oct 5 - Fri, Oct 9
 - Feature engineering, writing tidyverse functions (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/, https://dplyr.tidyverse.org/reference/mutate_all.html)
 - Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
