@@ -217,6 +217,9 @@ Recording: https://vanderbilt.zoom.us/rec/share/YE0ipKPKlaN-XRxrXh9GbK2w92BY8t97
 #### Wed, Sep 30
 Recording: https://vanderbilt.zoom.us/rec/share/Th8jWEX6fciXW3WSGbrHVRpRN1eO6gZl6D-p2uYB3N7jedOqZyypU9jmti7B4KDB.9D5dGdAn8-iHEwdy?startTime=1601490160000
 
+#### Fri, Oct 2
+Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34qKf7umqr3mM52DeukHYz0yYp7OLH68EhQ.3tdlvn2PFCpLwODc?startTime=1601662724000
+
 ### Mon, Oct 5 - Fri, Oct 9
 - Feature engineering, writing tidyverse functions (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/, https://dplyr.tidyverse.org/reference/mutate_all.html)
 - Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
