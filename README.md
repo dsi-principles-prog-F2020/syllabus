@@ -227,7 +227,7 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 - Remote computing
 
 
-### Week 9 (Oct 14-18)
+### Week 9 (Oct 12-16)
 - Thinking Pythonically ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb))
 - Jupyter notebooks ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/01-How-to-Run-Python-Code.ipynb), [Detailed overview](https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-fhki5vmr/notebooks/binder/Index.ipynb) )
 - [Basic syntax](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/02-Basic-Python-Syntax.ipynb) 
@@ -235,7 +235,7 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 - [Operators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/04-Semantics-Operators.ipynb)
 - [Built-in types](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/05-Built-in-Scalar-Types.ipynb)
 
-### Week 10 (Oct 21-25, Fall Break Oct 24-25)
+### Week 10 (Oct 19-23)
 - [Built-in data structures](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/06-Built-in-Data-Structures.ipynb)
 - [Flow statements](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/07-Control-Flow-Statements.ipynb)
 - [Debugging](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
@@ -243,7 +243,7 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 - [Errors and exceptions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb)
 - [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
 
-### Week 11 (Oct 28-Nov 1)
+### Week 11 (Oct 26-Oct 30)
 - [List comprehensions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/11-List-Comprehensions.ipynb)
 - [Generators](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/12-Generators.ipynb)
 - [Strings and regular expressions](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/14-Strings-and-Regular-Expressions.ipynb)
@@ -252,7 +252,7 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 - Indexing: [boolean indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb), [array slicing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
 - Intro to Pandas: [motivation](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb) and [overview](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 
-### Week 12 (Nov 4-8)
+### Week 12 (Nov 2-13)
 - [Pandas data types](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
 - [Data indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
 - [Operations in Pandas](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
