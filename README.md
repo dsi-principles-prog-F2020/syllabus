@@ -221,11 +221,10 @@ Recording: https://vanderbilt.zoom.us/rec/share/Th8jWEX6fciXW3WSGbrHVRpRN1eO6gZl
 Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34qKf7umqr3mM52DeukHYz0yYp7OLH68EhQ.3tdlvn2PFCpLwODc?startTime=1601662724000
 
 ### Mon, Oct 5 - Fri, Oct 9
-- Feature engineering, writing tidyverse functions (https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/, https://dplyr.tidyverse.org/reference/mutate_all.html)
-- Tidyverse coding (https://tidyverse.tidyverse.org/articles/manifesto.html)
-- ACCRE Slurm ([Unix](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2017/10/26205557/NewIntroToUnix.pdf), [Introduction to the Cluster](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2018/12/13173622/intro_to_cluster_2018.pdf), [SLURM Job Scheduler](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/157/2019/03/28204601/intro_to_slurm.pdf), [ACCRE GitHub Demo Repositories](https://github.com/accre))
-- Remote computing
 
+#### Mon, Oct 5
+
+- Recording: https://vanderbilt.zoom.us/rec/share/u2bEscSJTYcgFqnCNlMl_MXhtSeVpNL05wEvSgXpXQY5RDsfXg1yJfL_mGek3UkT.c3L-MbTirRAKXwwu?startTime=1601922642000
 
 ### Week 9 (Oct 12-16)
 - Thinking Pythonically ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb))
