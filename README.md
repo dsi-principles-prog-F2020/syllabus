@@ -226,6 +226,10 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 
 - Recording: https://vanderbilt.zoom.us/rec/share/u2bEscSJTYcgFqnCNlMl_MXhtSeVpNL05wEvSgXpXQY5RDsfXg1yJfL_mGek3UkT.c3L-MbTirRAKXwwu?startTime=1601922642000
 
+#### Wed, Oct 7
+
+- Recording: https://vanderbilt.zoom.us/rec/share/6vAWEf_13OZLoUHa87uJkRTmq5pYQ3ArkLGb-DWfMalE1U-MufX_hmA2Iz-Z8a8t.J-Kh-3U3A045UY32?startTime=1602094929000
+
 ### Week 9 (Oct 12-16)
 - Thinking Pythonically ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb))
 - Jupyter notebooks ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/01-How-to-Run-Python-Code.ipynb), [Detailed overview](https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-fhki5vmr/notebooks/binder/Index.ipynb) )
