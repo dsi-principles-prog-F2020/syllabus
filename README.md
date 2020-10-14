@@ -242,6 +242,18 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 - [Operators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/04-Semantics-Operators.ipynb)
 - [Built-in types](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/05-Built-in-Scalar-Types.ipynb)
 
+#### Mon, Oct 12
+
+- Recording: https://vanderbilt.zoom.us/rec/share/tUrTmx9E_e6zNu3y4KGWxeibtoH3HmPMpCPGOu8pgnsh89_S4fxcjNeQGu2Vk5hG.knWLZlMz_v7ICaDW?startTime=1602527448000
+
+#### Mon, Wed 14
+
+
+
+#### Mon, Fri 16
+
+
+
 ### Week 10 (Oct 19-23)
 - [Built-in data structures](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/06-Built-in-Data-Structures.ipynb)
 - [Flow statements](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/07-Control-Flow-Statements.ipynb)
