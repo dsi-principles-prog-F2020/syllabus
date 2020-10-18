@@ -252,7 +252,7 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 
 #### Mon, Fri 16
 
-- Recording: 
+- Recording: https://vanderbilt.zoom.us/rec/share/JMDkBHUp5rEilXh3-hKecDn4BUgpzI_b8jxUFp2MSUc-RLodYwl3beLlVEGuGRN9.iavFCMUDz-evwH4C?startTime=1602873419000
 
 ### Week 10 (Oct 19-23)
 - [Built-in data structures](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/06-Built-in-Data-Structures.ipynb)
