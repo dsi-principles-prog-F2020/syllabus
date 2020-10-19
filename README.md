@@ -262,6 +262,15 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 - [Errors and exceptions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb)
 - [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
 
+#### Mon, Oct 19
+
+- Recording: https://vanderbilt.zoom.us/rec/share/0MjcNNWak1SnvLK20tv44PnEpTpp1Mjpgw-060XYwiBNTtKgKZuuymU12WDjU-Kx.Tvlr4Ave_TiqYDzB?startTime=1603133092000
+
+#### Mon, Oct 21
+
+#### Mon, Oct 23
+
+
 ### Week 11 (Oct 26-Oct 30)
 - [List comprehensions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/11-List-Comprehensions.ipynb)
 - [Generators](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/12-Generators.ipynb)
