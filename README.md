@@ -267,6 +267,7 @@ Recording: https://vanderbilt.zoom.us/rec/share/Tp78W_w7nld6riIayR6nJmWb-4LoY34q
 - Recording: https://vanderbilt.zoom.us/rec/share/0MjcNNWak1SnvLK20tv44PnEpTpp1Mjpgw-060XYwiBNTtKgKZuuymU12WDjU-Kx.Tvlr4Ave_TiqYDzB?startTime=1603133092000
 
 #### Mon, Oct 21
+- Recording: https://vanderbilt.zoom.us/rec/share/ww62EQKNifgJ1bcdRQv5zy2ERvfRujpAobVSquSJdpC4wO7AktZqgA2WJf5W6RoE.XyNhIQkGcGo-QgRY?startTime=1603305730000
 
 #### Mon, Oct 23
 
